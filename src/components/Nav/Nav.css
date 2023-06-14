@@ -1,0 +1,36 @@
+nav
+{
+    position: fixed;
+    width: 25%;
+    bottom:1%;
+    left: 37.5%;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(201, 199, 199, 0.2);
+    border-radius: 1.2rem;
+    z-index: 3;
+}
+nav a
+{
+    padding: 1rem;
+}
+nav a:hover
+{
+    color: aliceblue;
+}
+.active
+{
+    color: white;
+}
+@media screen and (max-width: 1200px)
+ {
+    section
+    {
+        font-size: 14px;
+    }
+    nav
+    {
+        width: 50%;
+        left: 25%;
+    }
+ }

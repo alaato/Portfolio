@@ -1,0 +1,24 @@
+span
+{
+    color: purple
+}
+h2
+{
+    font-weight: bold;
+}
+
+.project-container
+{
+
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+.project-container h1
+{
+    width: 100%;
+}
+button a
+{
+    width: 100%;
+}
