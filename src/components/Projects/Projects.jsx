@@ -21,8 +21,8 @@ const Projects = ()=>{
                }}
             className="container project-container">
             <h1>Projects</h1>
-            <Project image={Zno} text={CardText1} tech={Tech1} title={'NewEnglish'}></Project>
-            <Project image={campAdvisor} text={CardText2} tech={Tech1} title={'CampAdvisor'}></Project>
+            <Project image={Zno} text={CardText1} tech={Tech1} title={'NewEnglish'} live={"https://newenglsih.onrender.com/"} github={"https://github.com/alaato/NewEnglish"}></Project>
+            <Project image={campAdvisor} text={CardText2} tech={Tech1} title={'CampAdvisor'} live={'https://campadvsior.onrender.com/'} github={'https://github.com/alaato/CampAdvisor'}></Project>
             </motion.div>
         </section>
     )

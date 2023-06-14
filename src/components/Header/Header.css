@@ -29,10 +29,10 @@ position: relative;
 }
 .header-social::after
 {
-    content: '';
+    content:'';
     width: 1px;
     height: 2rem;
-    background-color: aliceblue;
+    background-color: #213547;
 }
  .image
 {

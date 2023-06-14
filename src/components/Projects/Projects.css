@@ -11,6 +11,7 @@ h2
 {
 
     flex-direction: row;
+    align-items: stretch;
     flex-wrap: wrap;
     gap: 12px;
 }
