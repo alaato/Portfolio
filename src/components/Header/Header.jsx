@@ -22,7 +22,7 @@ const Header = ()=>{
                 <h1>Alaa Edden</h1>
                 <h2>Junior Full-Stack Developer</h2>
                 <p>My name is Alaa Edden or simply Alaa,
-                     I am Computer engineering student graduating this month,
+                     I am Computer engineering graduate,
                       my Passion is full-stack development and have made couple of projects using technologies such as Node.js MongoDb and express.</p>
                 <CTA/>
                 <div className="image">
