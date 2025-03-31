@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react'
-import CV from '../../assets/Alaa Web developer CV EN.docx.pdf'
+import CV from '../../assets/ALAA ATARBAN CV.pdf'
 
 const CTA = () => {
   return (
